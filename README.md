@@ -1,21 +1,10 @@
-# Projet PRWB 1920 - StackOverflow
+# Stuck overflow
 
-## Notes de version itération 1 
+Stuck overflow is a project made for the EPFC.
+It's a forum that tends to look like Stack overflow.
+People can ask questions, answer, vote for questions and comment.
+Some parts are made in PHP and others in Javascript.
 
-### Liste des utilisateurs et mots de passes
+## usage
 
-  * Utilisateur `admin` (Administrator), mot de passe `Password1,`
-  * Utilisateur `alain` (Alain Silovy), mot de passe `Password1,`
-  * Utilisateur `ben` (Benoît Penelle), mot de passe `Password1,`
-  * Utilisateur `bruno` (Bruno Lacroix), mot de passe `Password1,`
-  * Utilisateur `boris` (Boris Verhaegen), mot de passe `Password1,`
-
-### Liste des bugs connus
-
-  * Il n'y a pas de retri lors du vote en AJAX
-
-### Liste des fonctionnalités supplémentaires
-
-### Divers
-
-  * Il reste certainement des bugs, mais ils n'ont pas ete trouves lors de nos tests.
+Just put the project in the www folder, then init the database and go on localhost 
